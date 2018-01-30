@@ -11,3 +11,7 @@ exports.spotify = {
     id: process.env.SPOTIFY_ID,
     secret: process.env.SPOTIFY_SECRET
 };
+
+//# OMDb API keys
+
+//OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=49dee8da    
