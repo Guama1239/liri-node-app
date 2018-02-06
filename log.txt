@@ -129,3 +129,134 @@ Song Name: I Want It That Way
 Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=69fcf409608a47c78fbaccedc0fd6ea8
 Album: The Hits--Chapter One
 ===================================================================================
+Command: spotify-this-song ||  Search made for: I Want it That Way
+                     
+===================================================================================
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=69fcf409608a47c78fbaccedc0fd6ea8
+Album: The Hits--Chapter One
+===================================================================================
+Command: movie-this ||  Search made for: Mr.Nobody
+        
+===================================================================================
+Title of the movie:      Mr. Nobody
+Year the movie came out: 2009
+IMDB Rating :            7.9
+Rotten Tomatoes Rating : 66%
+Country:                 Belgium, Germany, Canada, France, USA, UK
+Language:                English, Mohawk
+Plot:                    A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors:                  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+===================================================================================
+Command: movie-this ||  Search made for: face/off
+        
+===================================================================================
+Title of the movie:      Face/Off
+Year the movie came out: 1997
+IMDB Rating :            7.3
+Rotten Tomatoes Rating : 92%
+Country:                 USA
+Language:                English, Latin
+Plot:                    In order to foil an extortion plot, an FBI agent undergoes a facial transplant surgery and assumes the identity and physical appearance of a terrorist, but the plan turns from bad to worse when the same terrorist impersonates the FBI agent.
+Actors:                  John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola
+===================================================================================
+Command: spotify-this-song ||  Search made for: The Sign by Ace of Base
+        
+===================================================================================
+Artist: The Karaoke Channel
+Song Name: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Preview: https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=69fcf409608a47c78fbaccedc0fd6ea8
+Album: The Karaoke Channel - Sing the Sign Like Ace of Base
+===================================================================================
+Command: spotify-this-song ||  Search made for: billy+jean
+        
+===================================================================================
+Artist: The Thrillers
+Song Name: Billy Jean
+Preview: https://p.scdn.co/mp3-preview/43994c7b115c252e532b807d7bcf850a9067a1d1?cid=69fcf409608a47c78fbaccedc0fd6ea8
+Album: Ladies Night
+===================================================================================
+Command: my-tweets ||  Search made for: last 20 tweets
+        
+===================================================================================
+tweet 1:
+Mon Feb 05 20:47:01 +0000 2018
+I found my soulmate
+===================================================================================
+tweet 2:
+Mon Feb 05 07:21:37 +0000 2018
+off course, lipitor included
+===================================================================================
+tweet 3:
+Mon Feb 05 07:21:12 +0000 2018
+with a Coca Cola, but the imported one from Mexico amigo.
+===================================================================================
+tweet 4:
+Mon Feb 05 07:20:18 +0000 2018
+Cheese, Sour Cream and Avocado on my steak Burrito porfavor
+===================================================================================
+tweet 5:
+Mon Feb 05 07:19:36 +0000 2018
+Veggie Burritos!!! No Way Jose
+===================================================================================
+tweet 6:
+Mon Feb 05 07:19:16 +0000 2018
+Did say tacos!!!! No amigo, Burritos is the real stuff!!!
+===================================================================================
+tweet 7:
+Mon Feb 05 07:09:08 +0000 2018
+just a few more
+===================================================================================
+tweet 8:
+Mon Feb 05 07:08:55 +0000 2018
+some mercy porfavor
+===================================================================================
+tweet 9:
+Mon Feb 05 07:08:34 +0000 2018
+I need twenty tweets.....
+===================================================================================
+tweet 10:
+Mon Feb 05 07:08:08 +0000 2018
+could this be my new addiction????
+===================================================================================
+tweet 11:
+Mon Feb 05 07:07:44 +0000 2018
+i started to like this tweeting think.
+===================================================================================
+tweet 12:
+Mon Feb 05 07:07:12 +0000 2018
+this is another example of how distracting this could be,
+===================================================================================
+tweet 13:
+Mon Feb 05 07:06:45 +0000 2018
+please forgive me for using this media only for my home works
+===================================================================================
+tweet 14:
+Mon Feb 05 07:04:17 +0000 2018
+Go Eagles.
+===================================================================================
+tweet 15:
+Tue Jan 30 21:56:05 +0000 2018
+tell me and I forget, Teach me and I will remember. 7th tweet
+===================================================================================
+tweet 16:
+Tue Jan 30 21:55:26 +0000 2018
+there is nothing wrong in respecting each other. 6th tweet
+===================================================================================
+tweet 17:
+Tue Jan 30 21:54:55 +0000 2018
+let's be more huma.... 5th tweet
+===================================================================================
+tweet 18:
+Tue Jan 30 21:54:30 +0000 2018
+justice for all 4th tweet
+===================================================================================
+tweet 19:
+Tue Jan 30 21:54:04 +0000 2018
+this is just for testing my api 3rd tweet
+===================================================================================
+tweet 20:
+Tue Jan 30 21:53:40 +0000 2018
+my second tweet
+===================================================================================
